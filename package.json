@@ -12,7 +12,7 @@
     "clean": "node ./node_modules/.bin/gulp clean",
     "test": "node ./node_modules/.bin/gulp test"
   },
-  "repository": "https://github.com/tgorka/microplum.git",
+  "repository": "https://github.com/PunkHaz4rd/microplum.git",
   "author": "Tomasz Gorka <tomasz@gorka.org.pl>",
   "license": "MIT",
   "dependencies": {
@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "servicelychee": "https://github.com/tgorka/servicelychee",
+    "servicelychee": "https://github.com/PunkHaz4rd/servicelychee",
     "typescript": "^2.4.1"
   }
 }
